@@ -2,6 +2,9 @@
 
 A modern, responsive blog application built for CA Monk to share insights on finance, accounting, and career growth. Features a clean, professional design with a focus on readability and user experience.
 
+<img width="1470" height="923" alt="Screenshot 2026-01-20 at 18 06 16" src="https://github.com/user-attachments/assets/2ea6b815-1f41-42b5-b817-47355d6ea12b" />
+
+
 ## Features
 
 - **Modern UI Design**: Clean, professional interface with a light theme optimized for reading
