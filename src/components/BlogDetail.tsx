@@ -2,7 +2,7 @@ import { useQuery } from '@tanstack/react-query'
 import { Blog } from '@/types'
 import { Button } from '@/components/ui/button'
 import { Skeleton } from '@/components/ui/skeleton'
-import { AlertCircle, Share2, ThumbsUp, MessageSquare, Clock } from 'lucide-react'
+import { AlertCircle, Share2, Clock } from 'lucide-react'
 
 // Placeholder function to simulate fetching a blog
 const fetchBlog = async (id: number): Promise<Blog> => {
